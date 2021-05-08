@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://kayne-tech.medium.com/](https://kayne-tech.medium.com/)
 
-- 📫 How to reach me **k.sheenan@gmail.com**
+<!-- - 📫 How to reach me **k.sheenan@gmail.com** -->
 
 - 🚲 Hobbies **I love cycling on my Brompton. I love animals, travelling and cryptocurrency.**
 
