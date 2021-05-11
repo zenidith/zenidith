@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenidith&label=Profile%20views&color=0e75b6&style=flat" alt="zenidith" /> </p>
 
-- 🔭 I’m currently working on [building some projects on Scrimba.com Front End Developer Path!](https://www.scrimba.com/learn/frontend)
+- 🔭 I’m currently working on [building some projects on Scrimba.com Front End Developer Path!](https://www.scrimba.com/learn/frontend){:target="_blank"}
 
 - 🌱 I’m currently learning **JavaScript, AWS, React**
 
-- 👨‍💻 All of my projects are available at [https://zenidith.github.io/portfolio-fcc/](https://zenidith.github.io/portfolio-fcc/)
+- 👨‍💻 All of my projects are available at [https://zenidith.github.io/portfolio-fcc/](https://zenidith.github.io/portfolio-fcc/){:target="_blank"}
 
-- 📝 I regularly write articles on [https://kayne-tech.medium.com/](https://kayne-tech.medium.com/)
+- 📝 I regularly write articles on [https://kayne-tech.medium.com/](https://kayne-tech.medium.com/){:target="_blank"}
 
 <!-- - 📫 How to reach me **k.sheenan@gmail.com** -->
 
