@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **JavaScript, AWS, React**
 
-- 👨‍💻 All of my projects are available at [https://zenidith.github.io/portfolio-fcc/](https://zenidith.github.io/portfolio-fcc/){:target="_blank"}
+- 👨‍💻 All of my projects are available at [https://zenidith.github.io/portfolio-fcc/](https://zenidith.github.io/portfolio-fcc/)
 
-- 📝 I regularly write articles on [https://kayne-tech.medium.com/](https://kayne-tech.medium.com/){:target="_blank"}
+- 📝 I regularly write articles on [https://kayne-tech.medium.com/](https://kayne-tech.medium.com/)
 
 <!-- - 📫 How to reach me **k.sheenan@gmail.com** -->
 
