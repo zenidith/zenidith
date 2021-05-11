@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenidith&label=Profile%20views&color=0e75b6&style=flat" alt="zenidith" /> </p>
 
-- 🔭 I’m currently working on [building some projects on Scrimba.com Front End Developer Path!](https://www.scrimba.com/learn/frontend){:target="_blank"} <a href="https://www.scrimba.com/learn/frontend" target="_blank">building some projects on Scrimba.com Front End Developer Path!</a>
+- 🔭 I’m currently working on <a href="https://www.scrimba.com/learn/frontend" target="_blank">building some projects on Scrimba.com Front End Developer Path!</a>
 
 - 🌱 I’m currently learning **JavaScript, AWS, React**
 
