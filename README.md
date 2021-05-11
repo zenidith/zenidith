@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenidith&label=Profile%20views&color=0e75b6&style=flat" alt="zenidith" /> </p>
 
-- 🔭 I’m currently working on [building some projects on Scrimba.com Front End Developer Path!](www.scrimba.com/learn/frontend)
+- 🔭 I’m currently working on [building some projects on Scrimba.com Front End Developer Path!](https://www.scrimba.com/learn/frontend)
 
 - 🌱 I’m currently learning **JavaScript, AWS, React**
 
