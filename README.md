@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **JavaScript, AWS, React**
 
-- 👨‍💻 All of my projects are available at [https://zenidith.github.io/portfolio-fcc/](https://zenidith.github.io/portfolio-fcc/)
+- 👨‍💻 All of my projects are available at [my current portfolio page](https://zenidith.github.io/portfolio-fcc/)
 
-- 📝 I regularly write articles on [https://kayne-tech.medium.com/](https://kayne-tech.medium.com/)
+- 📝 I regularly write articles on [my Medium page/](https://kayne-tech.medium.com/)
 
-- 🎧 Here are some DJ sets that I have recorded [https://www.mixcloud.com/kaynesheenan/uploads/](https://www.mixcloud.com/kaynesheenan/uploads/)
+- 🎧 Here are some DJ sets that I have recorded [Mixcloud](https://www.mixcloud.com/kaynesheenan/uploads/)
 
-- 🎵 Here is a playlist of music that I've chosen for anytime. I update it now and again! [https://music.youtube.com/playlist?list=PLu-jfJvgfD00960Tv42A5vCKQjz4EJuop](https://music.youtube.com/playlist?list=PLu-jfJvgfD00960Tv42A5vCKQjz4EJuop)
+- 🎵 Here is a playlist of music that I've chosen for anytime. I update it now and again! [YouTube Music playlist](https://music.youtube.com/playlist?list=PLu-jfJvgfD00960Tv42A5vCKQjz4EJuop)
 
 <!-- - 📫 How to reach me **k.sheenan@gmail.com** -->
 
