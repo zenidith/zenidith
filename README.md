@@ -11,6 +11,10 @@
 
 - 📝 I regularly write articles on [https://kayne-tech.medium.com/](https://kayne-tech.medium.com/)
 
+- 🎧 Here are some DJ sets that I have recorded [https://www.mixcloud.com/kaynesheenan/uploads/](https://www.mixcloud.com/kaynesheenan/uploads/)
+
+- 🎵 Here is a playlist of music that I've chosen for anytime. I update it now and again! [https://music.youtube.com/playlist?list=PLu-jfJvgfD00960Tv42A5vCKQjz4EJuop](https://music.youtube.com/playlist?list=PLu-jfJvgfD00960Tv42A5vCKQjz4EJuop)
+
 <!-- - 📫 How to reach me **k.sheenan@gmail.com** -->
 
 - 🚲 Hobbies **I love cycling on my Brompton. I love animals, travelling and cryptocurrency.**
