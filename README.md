@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [my current portfolio page.](https://zenidith.github.io/portfolio-fcc/)
 
-- 📝 I regularly write articles on [my Medium page.](https://kayne-tech.medium.com/)
+- 📝 I occasionally write articles on [my Medium page.](https://kayne-tech.medium.com/)
 
 - 🚲  **I love cycling on my Brompton. I love animals, travelling and cryptocurrency.**
 
-- 🎧 Here are some DJ sets that I have recorded [Mixcloud.](https://www.mixcloud.com/kaynesheenan/uploads/)
+- 🎧 Here are some DJ sets that I have recorded and uploaded to [Mixcloud.](https://www.mixcloud.com/kaynesheenan/uploads/)
 
 - 🎵 Here is a playlist of music that I've chosen for anytime, day or night. I update it now and again! [YouTube Music playlist.](https://music.youtube.com/playlist?list=PLu-jfJvgfD00960Tv42A5vCKQjz4EJuop)
 
