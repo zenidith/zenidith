@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, AWS, React**
 
-- 👨‍💻 All of my projects are available at [my current portfolio page.](https://zenidith.github.io/portfolio-fcc/)
+- 👨‍💻 Some of my projects are available at [my current portfolio page.](https://zenidith.github.io/portfolio-fcc/)
 
 - 📝 I occasionally write articles on [my Medium page.](https://kayne-tech.medium.com/)
 
