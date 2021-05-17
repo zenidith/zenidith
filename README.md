@@ -11,7 +11,7 @@
 
 - 📝 I occasionally write articles on [my Medium page.](https://kayne-tech.medium.com/)
 
-- 🚲  **I love cycling on my Brompton. I love animals, travelling and cryptocurrency.**
+- 🚲  **I love cycling on my [Brompton](https://www.brompton.com/). I love animals, travelling and cryptocurrency.**
 
 - 🎧 Here are some DJ sets that I have recorded and uploaded to [Mixcloud.](https://www.mixcloud.com/kaynesheenan/uploads/)
 
