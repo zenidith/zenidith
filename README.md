@@ -9,7 +9,7 @@
 
 - 👨‍💻 Some of my projects are available at [my current portfolio page.](https://zenidith.github.io/portfolio-fcc/)
 
-- 📝 I occasionally write articles on [my Medium page.](https://kayne-tech.medium.com/)
+- 📝 I occasionally write articles on [hashnode.](https://kayne.hashnode.dev/)
 
 - 🚲  **I love cycling on my [Brompton](https://www.brompton.com/). I love animals, travelling and cryptocurrency.**
 
