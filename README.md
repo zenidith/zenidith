@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenidith&label=Profile%20views&color=0e75b6&style=flat" alt="zenidith" /> </p>
 
-- 🔭 I’m currently working on <a href="https://www.scrimba.com/learn/frontend" target="_blank">building some projects on Scrimba.com Front End Developer Path!</a>
+🔭 &nbsp; I’m currently working on <a href="https://www.scrimba.com/learn/frontend" target="_blank">building some projects on Scrimba.com Front End Developer Path!</a>
 
-🌱 I’m currently learning **JavaScript, AWS, React**
+🌱 &nbsp; I’m currently learning **JavaScript, AWS, React**
  
 🎓 &nbsp; Law (LL.B) and B.A (Japanese) graduate at [Griffith University](https://www.griffith.edu.au/).
 
-- 👨‍💻 Some of my projects are available at [my current portfolio page.](https://zenidith.github.io/portfolio-fcc/)
+👨‍💻 &nbsp; Some of my projects are available at [my current portfolio page.](https://zenidith.github.io/portfolio-fcc/)
 
-- 📝 I occasionally write articles on [hashnode.](https://kayne.hashnode.dev/)
+📝  &nbsp; I occasionally write articles on [hashnode.](https://kayne.hashnode.dev/)
 
-- 🚲  **I love cycling on my [Brompton](https://www.brompton.com/). I love animals, travelling and cryptocurrency.**
+🚲  &nbsp; **I love cycling on my [Brompton](https://www.brompton.com/). I love animals, travelling and cryptocurrency.**
 
-- 🎧 Here are some DJ sets that I have recorded and uploaded to [Mixcloud.](https://www.mixcloud.com/kaynesheenan/uploads/)
+🎧 &nbsp; Here are some DJ sets that I have recorded and uploaded to [Mixcloud.](https://www.mixcloud.com/kaynesheenan/uploads/)
 
-- 🎵 Here is a playlist of music that I've chosen for anytime, day or night. I update it now and again! [YouTube Music playlist.](https://music.youtube.com/playlist?list=PLu-jfJvgfD00960Tv42A5vCKQjz4EJuop)
+🎵 &nbsp; Here is a playlist of music that I've chosen for anytime, day or night. I update it now and again! [YouTube Music playlist.](https://music.youtube.com/playlist?list=PLu-jfJvgfD00960Tv42A5vCKQjz4EJuop)
 
 <!-- - 📫 How to reach me **k.sheenan@gmail.com** -->
 
