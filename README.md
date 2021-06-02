@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on <a href="https://www.scrimba.com/learn/frontend" target="_blank">building some projects on Scrimba.com Front End Developer Path!</a>
 
-- 🌱 I’m currently learning **JavaScript, AWS, React**
-
-- 🎓 &nbsp; Law (LL.B) and B.A (Japanese) graduate at [Griffith University](https://www.griffith.edu.au/).
+🌱 I’m currently learning **JavaScript, AWS, React**
+ 
+🎓 &nbsp; Law (LL.B) and B.A (Japanese) graduate at [Griffith University](https://www.griffith.edu.au/).
 
 - 👨‍💻 Some of my projects are available at [my current portfolio page.](https://zenidith.github.io/portfolio-fcc/)
 
