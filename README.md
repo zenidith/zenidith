@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **JavaScript, AWS, React**
 
+- 🎓 &nbsp; Law (LL.B) and B.A (Japanese) graduate at [Griffith University](https://www.griffith.edu.au/).
+
 - 👨‍💻 Some of my projects are available at [my current portfolio page.](https://zenidith.github.io/portfolio-fcc/)
 
 - 📝 I occasionally write articles on [hashnode.](https://kayne.hashnode.dev/)
