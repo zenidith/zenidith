@@ -25,7 +25,7 @@ Timezone: Seoul, South Korea (GMT+9)
 
 📝  &nbsp; I occasionally write articles on [hashnode.](https://kayne.hashnode.dev/)
 
-🚲  &nbsp; I love cycling on my [Brompton](https://www.brompton.com/). I love animals, travelling and cryptocurrency.
+🚲  &nbsp; I love cycling on my [Brompton](https://www.brompton.com/). I love animals, travel and am interested in record shopping, baking and cryptocurrency.
 
 🎧 &nbsp; Here are some DJ sets that I have recorded and uploaded to [Mixcloud.](https://www.mixcloud.com/kaynesheenan/uploads/)
 
