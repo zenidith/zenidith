@@ -46,7 +46,7 @@ Timezone: Seoul, South Korea (GMT+9)
 
 <br />
 <p align="center" style="display:inline">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zenidith&theme=dark&hide_border=true" alt="zenidith" width="400" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zenidith&theme=dark&hide_border=true" alt="zenidith" width="1000" /></p>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenidith&layout=compact&theme=radical" width="400" /> -->
 </p>
 
