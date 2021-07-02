@@ -31,7 +31,6 @@ Timezone: Seoul, South Korea (GMT+9)
 
 🎵 &nbsp; Here is a playlist of music that I've chosen for anytime, day or night. I update it now and again! [YouTube Music playlist.](https://music.youtube.com/playlist?list=PLu-jfJvgfD00960Tv42A5vCKQjz4EJuop)
 
-
 <h3 align="center">Languages and Tools:</h3>
 
 <br/>
