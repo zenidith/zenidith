@@ -13,7 +13,6 @@
 Timezone: Seoul, South Korea (GMT+9)
 </p>
 
-
 🔭 &nbsp; I’m currently working on <a href="https://www.scrimba.com/learn/frontend" target="_blank">building some projects on Scrimba.com Front End Developer Path!</a>
 
 🌱 &nbsp; I’m currently learning **JavaScript, AWS, React**
