@@ -25,9 +25,7 @@ Timezone: Seoul, South Korea (GMT+9)
 
 🚲  &nbsp; I love cycling on my [Brompton](https://www.brompton.com/). I love animals, travel and am interested in record shopping, baking and cryptocurrency.
 
-🎧 &nbsp; Here are some DJ sets that I have recorded and uploaded to [Mixcloud.](https://www.mixcloud.com/kaynesheenan/uploads/)
-
-🎵 &nbsp; Here is a playlist of music that I've chosen for anytime, day or night. I update it now and again! [YouTube Music playlist.](https://music.youtube.com/playlist?list=PLu-jfJvgfD00960Tv42A5vCKQjz4EJuop)
+🎧 &nbsp; Here are some DJ sets that I have recorded and uploaded to [Mixcloud.](https://www.mixcloud.com/kaynesheenan/uploads/) and a playlist of music that I've chosen for anytime, day or night. I update it now and again! [YouTube Music playlist.](https://music.youtube.com/playlist?list=PLu-jfJvgfD00960Tv42A5vCKQjz4EJuop)
 
 <h3 align="center">Languages and Tools:</h3>
 
