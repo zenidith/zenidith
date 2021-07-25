@@ -15,7 +15,7 @@ Timezone: Seoul, South Korea (GMT+9)
 
 🔭 &nbsp; I’m currently working on <a href="https://www.scrimba.com/learn/frontend" target="_blank">building some projects on Scrimba.com Front End Developer Path!</a>
 
-🌱 &nbsp; I’m currently learning **JavaScript, AWS, React**
+🌱 &nbsp; I’m currently learning **JavaScript, AWS Solutions Architect Associate and APIs. Next, I want to learn React, Tailwind and Solidity/Blockchain App development**
  
 🎓 &nbsp; Law (LL.B) and B.A (Japanese) graduate at [Griffith University](https://www.griffith.edu.au/).
 
