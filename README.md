@@ -46,9 +46,6 @@ Timezone: Seoul, South Korea (GMT+9)
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenidith&layout=compact&theme=radical" width="400" /> -->
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zenidith&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ---
 
 Thanks for visiting! :smile: <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenidith&label=Profile%20views&color=0e75b6&style=flat" alt="zenidith" /> </p>
