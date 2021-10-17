@@ -20,7 +20,7 @@ Timezone: Seoul, South Korea (GMT+9)
  
 🎓 &nbsp; Law (LL.B) and B.A (Japanese) graduate at [Griffith University](https://www.griffith.edu.au/).
 
-👨‍💻 &nbsp; Some of my projects are available at [my current portfolio page.](https://zenidith.github.io/portfolio-fcc/)
+👨‍💻 &nbsp; Some of my projects are available at [my portfolio page.](https://zenidith.github.io/portfolio-fcc/)
 
 📝  &nbsp; I occasionally write articles on [hashnode.](https://kayne.hashnode.dev/)
 
@@ -28,7 +28,7 @@ Timezone: Seoul, South Korea (GMT+9)
 
 🎧 &nbsp; Here are some DJ sets that I have recorded and uploaded to [Mixcloud.](https://www.mixcloud.com/kaynesheenan/uploads/) and a playlist of music that I've chosen for anytime, day or night. I update it now and again! [YouTube Music playlist.](https://music.youtube.com/playlist?list=PLu-jfJvgfD00960Tv42A5vCKQjz4EJuop)
 
-<h3 align="center">Languages and Tools:</h3>
+<!-- <h3 align="center">Languages and Tools:</h3>
 
 <br/>
 
@@ -38,7 +38,7 @@ Timezone: Seoul, South Korea (GMT+9)
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>   <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="50" height="50"/> </a> 
 
 </p>
-
+ -->
 
 <br />
 <p align="center" style="display:inline">
