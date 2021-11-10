@@ -22,7 +22,7 @@ Timezone: Seoul, South Korea (GMT+9)
 
 👨‍💻 &nbsp; Some of my projects are available at [my portfolio page.](https://zenidith.github.io/portfolio-fcc/)
 
-📝  &nbsp; I occasionally write articles on [hashnode.](https://kayne.hashnode.dev/)
+📝  &nbsp; I occasionally write articles on [hashnode](https://kayne.hashnode.dev/) and [medium](https://medium.com/@kayne-tech).
 
 🚲  &nbsp; I love cycling on my [Brompton](https://www.brompton.com/). I love animals, travel and am interested in record shopping, baking and cryptocurrency.
 
