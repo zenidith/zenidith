@@ -28,6 +28,8 @@ Timezone: Seoul, South Korea (GMT+9)
 
 🎧 &nbsp; Here are some DJ sets that I have recorded and uploaded to [Mixcloud.](https://www.mixcloud.com/kaynesheenan/uploads/) and a playlist of music that I've chosen for anytime, day or night. I update it now and again! [YouTube Music playlist.](https://music.youtube.com/playlist?list=PLu-jfJvgfD00960Tv42A5vCKQjz4EJuop)
 
+<br/>
+
 <!-- <h3 align="center">Languages and Tools:</h3>
 
 <br/>
@@ -45,6 +47,9 @@ Timezone: Seoul, South Korea (GMT+9)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zenidith&theme=dark&hide_border=true" alt="zenidith" width="1000" /></p>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenidith&layout=compact&theme=radical" width="400" /> -->
 </p>
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=zenidith&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=radical" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenidith&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=radical" />
 
 ---
 
