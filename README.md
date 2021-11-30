@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kayne!</h1>
 
-<h3 align="center">ex-Global Logistics coordinator, occasional-DJ. Currently: upskilling in Next.js and Blockchain App development! I spend my time learning new technologies and building things with them. Based in Seoul, South Korea.</h3>
+<h3 align="center">ex-Global Logistics coordinator, occasional-DJ. Currently: Working with Next.js and studying Blockchain App development! I spend my time learning new technologies and building things with them. Based in Seoul, South Korea.</h3>
 
 <br/>
 
