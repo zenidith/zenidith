@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kayne!</h1>
 
-<h3 align="center">ex-Global Logistics coordinator, occasional-DJ. Currently: Working with Next.js and studying Blockchain App development! I spend my time learning new technologies and building things with them. Based in Seoul, South Korea.</h3>
+<h3 align="center">Junior Developer, occasional-DJ. Currently: Upskilling in DeFi, React and Web3! I spend my time learning new technologies and building things with them. Based in Seoul, South Korea.</h3>
 
 <br/>
 
@@ -16,15 +16,15 @@ Timezone: Seoul, South Korea (GMT+9)
 
 🔭 &nbsp; I’m currently working on <a href="https://www.scrimba.com/learn/frontend" target="_blank">building some projects on Scrimba.com Front End Developer Path!</a>
 
-🌱 &nbsp; I’m currently learning **JavaScript, AWS Solutions Architect Associate and APIs**. Next, I want to learn **React, Tailwind and Solidity/Blockchain App development**
+🌱 &nbsp; I’m currently learning **React, Solidity/Blockchain App development and Korean!**. 
  
 🎓 &nbsp; Law (LL.B) and B.A (Japanese) graduate at [Griffith University](https://www.griffith.edu.au/).
 
 👨‍💻 &nbsp; Some of my projects are available at [my portfolio page.](https://zenidith.github.io/portfolio-fcc/)
 
-📝  &nbsp; I occasionally write articles on [hashnode](https://kayne.hashnode.dev/) and [medium](https://medium.com/@kayne-tech).
+📝  &nbsp; I <em>very</em> occasionally write articles on [hashnode](https://kayne.hashnode.dev/) and [medium](https://medium.com/@kayne-tech).
 
-🚲  &nbsp; I love cycling on my [Brompton](https://www.brompton.com/). I love animals, travel and am interested in record shopping, baking and cryptocurrency.
+🚲  &nbsp; I love cycling on my [Brompton](https://www.brompton.com/). I am interested in records/music, creating things with code or in real life, crypto and language learning.
 
 🎧 &nbsp; Here are some DJ sets that I have recorded and uploaded to [Mixcloud.](https://www.mixcloud.com/kaynesheenan/uploads/) and a playlist of music that I've chosen for anytime, day or night. I update it now and again! [YouTube Music playlist.](https://music.youtube.com/playlist?list=PLu-jfJvgfD00960Tv42A5vCKQjz4EJuop)
 
