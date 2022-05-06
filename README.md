@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kayne!</h1>
 
-<h3 align="center">Junior Developer, occasional-DJ. Currently: Upskilling in DeFi, React and Web3! I spend my time learning new technologies and building things with them. Based in Seoul, South Korea.</h3>
+<h3 align="center">DeFi Analyst / Junior Developer at <a href="http://bisonai.com/" target="_blank">Bisonai</a>, occasional-DJ. Currently: Upskilling in DeFi, React and Web3! I spend my time learning new technologies and building things with them. Based in Seoul, South Korea.</h3>
 
 <br/>
 
