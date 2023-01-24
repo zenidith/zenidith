@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kayne!</h1>
 
-<h3 align="center">DeFi Analyst / Junior Developer at <a href="http://bisonai.com/" target="_blank">Bisonai</a>, occasional-DJ. Currently: Upskilling in DeFi, React and Web3! I spend my time learning new technologies and building things with them. Based in Seoul, South Korea.</h3>
+<h3 align="center">DeFi Analyst / Junior Developer at <a href="http://bisonai.com/" target="_blank">Bisonai</a>, occasional-DJ. Currently: Upskilling in Web3, React and Business Strategy! I spend my time learning new technologies and building things with them. Based in Tokyo, Japan.</h3>
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 <h2 align="center">About me</h2>
 <p align="center">
-Timezone: Seoul, South Korea (GMT+9)
+Timezone: Tokyo, Japan (GMT+9)
 </p>
 
 🔭 &nbsp; I’m currently working on <a href="https://www.scrimba.com/learn/frontend" target="_blank">building some projects on Scrimba.com Front End Developer Path!</a>
