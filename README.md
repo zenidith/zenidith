@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kayne!</h1>
 
-<h3 align="center">Head of Communications/Sales / Junior Dev at <a href="http://bisonai.com/" target="_blank">Bisonai</a>, occasional-DJ. Currently: Upskilling in Web3, React and Business Strategy! I spend my time learning new technologies and building things with them. Based in Tokyo, Japan.</h3>
+<h3 align="center">Former Head of Communications/Sales / Junior Dev at <a href="http://bisonai.com/" target="_blank">Bisonai</a>, occasional-DJ. Currently: Upskilling in Web3, React and Business Strategy! I spend my time learning new technologies and building things with them. Based in Tokyo, Japan.</h3>
 
 <br/>
 
